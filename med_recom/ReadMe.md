@@ -23,7 +23,7 @@ Ensure you have Python installed. The recommended version is 3.6 or higher.
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/medicine-recommendation-system.git
+    git clone https://github.com/srinath2003/medicine-recommendation-system.git
     ```
 
 2. Navigate to the project folder:
