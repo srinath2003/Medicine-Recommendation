@@ -1,0 +1,7 @@
+Flask==2.3.3
+numpy==1.26.0
+pandas==2.1.1
+scikit-learn==1.4.1
+opencv-python==4.8.0.76
+pytesseract==0.3.10
+difflib==0.2.7
